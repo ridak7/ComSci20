@@ -18,7 +18,7 @@ public class BinaryNumbers {
 	public static void main(String[] args)
 	{
 
-		System.out.println("Decimal      Binary");
+		System.out.println("Decimal      Binary");    	out of place for coding standards
         System.out.println("1            1");
         System.out.println("2            10");
         System.out.println("3            11");
@@ -43,7 +43,7 @@ public class BinaryNumbers {
 	}
 
 }
-/*
+/*							Screen Dump missing
 Decimal      Binary
 1            1
 2            10

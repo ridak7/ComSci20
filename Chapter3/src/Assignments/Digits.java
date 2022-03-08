@@ -7,7 +7,7 @@ Purpose:Create a Digits application that prompts the user for a two-digit number
 Author: Elyas Hossaini
 School: CHHS
 Course: Computer Programming 20
- 
+ 												Missing the three digits program
  
 */
 package Assignments;
@@ -30,7 +30,7 @@ public class Digits {
 	}
 
 }
-/*
+/*												Screen Dump missing
 Please enter a 2 digit number:
 87
 The number you entered is 87
